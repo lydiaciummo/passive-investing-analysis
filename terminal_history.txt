@@ -1,0 +1,50 @@
+  461  git rm Starter_Code/Starter_Code/etf.db
+  462  git rm Starter_Code/Starter_Code/etf_analyzer.ipynb
+  463  git add etf.db
+  464  git add etf_analyzer.db
+  465  git add etf_analyzer.ipynb
+  466  git status
+  467  git commit -m"Eliminated redundancies in the folder structure"
+  468  git push
+  469  git status
+  470  git add etf_analyzer.ipynb
+  471  git status
+  472  git commit -m"Wrote some of the code for the notebook"
+  473  git push
+  474  git push
+  475  conda activate dev
+  476  jupyter lab
+  477  conda deactivate
+  478  conda activate de
+  479  conda activate dev
+  480  conda deactivate
+  481  conda activate dev
+  482  jupyter lab
+  483  jupyter lab
+  484  conda deactivate
+  485  cd onedrive/boot_camp/challenges/module_7_challenge/passive-investing-analysis
+  486  voila etf_analyzer.ipynb
+  487  cd onedrive/boot_camp/challanges/module_7_challenge/passive-investing-analysis
+  488  cd onedrive/boot_camp/challenges/module_7_challenge/passive-investing-analysis
+  489  cd onedrive/boot_camp/challenges/module_7_challenge/passive_investing_analysis
+  490  cd onedrive/boot_camp/challenges/module_7_challenge/passive-investing-analysis
+  491  git status
+  492  git add etf_analyzer.ipynb
+  493  git commit -m"Finished the code for the notebook"
+  494  git push
+  495  voila etf_anylyzer.ipynb
+  496  conda activate dev
+  497  voila etf_analyzer.ipynb
+  498  cd onedrive/boot_camp/challenges/module_7_challenge/passive-investing-analysis
+  499  conda activate dev
+  500  voila etf_analyzer.ipynb
+  501  cd onedrive/boot_camp/challenges/module_7_challenge/passive-investing-analysis
+  502  conda activate dev
+  503  voila etf_analyzer.ipynb
+  504  git status
+  505  git add --all
+  506  git commit -m"Edited the markdown for the notebook"
+  507  git push
+  508  voila etf_analyzer.ipynb
+  509  git status
+  510  history 50 > terminal_history.txt
